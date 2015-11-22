@@ -5,3 +5,4 @@ Add bio
 * Seattle
 * Thai
 * Photography     
+* Blue
