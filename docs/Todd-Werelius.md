@@ -6,3 +6,4 @@ Add bio
 * Thai
 * Photography     
 * Blue
+* More Information
